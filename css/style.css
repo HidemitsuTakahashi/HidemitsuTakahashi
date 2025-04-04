@@ -67,7 +67,7 @@ body {
 
 /*リセット*/
 figure {margin: 0;}
-dd {margin: 0;}
+dd {margin: 0 0 10px 0;}
 nav,ul,li,ol {margin: 0;padding: 0;}
 nav ul {list-style: none;}
 input {font-size: 1rem;}
